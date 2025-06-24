@@ -85,18 +85,3 @@ The file `config-feedforward.txt` contains the parameters for evolving the neura
 * Network structure constraints
 
 Adjust it for experimentation and performance tuning.
-
----
-
-## 🙌 Acknowledgements
-
-* [NEAT-Python](https://github.com/CodeReclaimers/neat-python)
-* [Pygame](https://www.pygame.org/)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
